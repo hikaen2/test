@@ -22,8 +22,6 @@ THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
 - http://www.unicode.org/Public/MAPPINGS/OBSOLETE/EASTASIA/JIS/JIS0201.TXT
 - https://www.unicode.org/license.html
 
-----
-
 ```
 UNICODE, INC. LICENSE AGREEMENT - DATA FILES AND SOFTWARE
 See Terms of Use for definitions of Unicode Inc.'s
