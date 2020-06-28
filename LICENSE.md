@@ -1,30 +1,26 @@
 
 # M+ BITMAP FONTS
 
-https://mplus-fonts.osdn.jp/mplus-bitmap-fonts/
+- https://mplus-fonts.osdn.jp/mplus-bitmap-fonts/
 
 ```
 LICENSE
 These fonts are free software.
 Unlimited permission is granted to use, copy, and distribute it, with or without modification, either commercially and noncommercially.
 THESE FONTS ARE PROVIDED "AS IS" WITHOUT WARRANTY.
-
-これらのフォントはフリー（自由な）ソフトウエアです。
-あらゆる改変の有無に関わらず、また商業的な利用であっても、自由にご利用、複製、再配布することができますが、全て無保証とさせていただきます。
 ```
+
 
 # ucs-fonts
 
-https://www.cl.cam.ac.uk/~mgk25/ucs-fonts.html
+- https://www.cl.cam.ac.uk/~mgk25/ucs-fonts.html
 
 
 # CP932.TXT, JIS0201.TXT
 
-http://www.unicode.org/Public/MAPPINGS/VENDORS/MICSFT/WINDOWS/CP932.TXT
-
-http://www.unicode.org/Public/MAPPINGS/OBSOLETE/EASTASIA/JIS/JIS0201.TXT
-
-https://www.unicode.org/license.html
+- http://www.unicode.org/Public/MAPPINGS/VENDORS/MICSFT/WINDOWS/CP932.TXT
+- http://www.unicode.org/Public/MAPPINGS/OBSOLETE/EASTASIA/JIS/JIS0201.TXT
+- https://www.unicode.org/license.html
 
 ----
 
@@ -76,7 +72,22 @@ use or other dealings in these Data Files or Software without prior
 written authorization of the copyright holder.
 ```
 
+
+# mkbold
+
+- https://hp.vector.co.jp/authors/VA013391/tools/mkbold
+
+```
+#  -- makes BDF font bold
+#	programmed by NAGAO, Sadakazu <snagao@cs.titech.ac.jp>	
+#		* public domain *
+```
+
+
 # other
+
+- bdf2pbm, bdfdump, bdfmerge, bdfremap, bdfsort, bdfuniq, createmap
+
 
 ```
 MIT License
